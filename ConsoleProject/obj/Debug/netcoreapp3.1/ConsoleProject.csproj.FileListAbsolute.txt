@@ -1,0 +1,12 @@
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.deps.json
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.runtimeconfig.json
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.runtimeconfig.dev.json
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.dll
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/bin/Debug/netcoreapp3.1/ConsoleProject.pdb
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.csprojAssemblyReference.cache
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.AssemblyInfoInputs.cache
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.AssemblyInfo.cs
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.csproj.CoreCompileInputs.cache
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.dll
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.pdb
+/Users/joe/projects/MSBuildVersionDemo/ConsoleProject/obj/Debug/netcoreapp3.1/ConsoleProject.genruntimeconfig.cache
