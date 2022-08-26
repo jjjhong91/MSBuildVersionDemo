@@ -10,6 +10,7 @@
 
 ```shell
 3.1.405 [/usr/local/share/dotnet/sdk]
+6.0.400 [/usr/local/share/dotnet/sdk]
 ```
 
 ### .NET CLI 執行 `dotnet build` 結果
